@@ -1,0 +1,20 @@
+{
+  "name": "banklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "arsh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "core-js": "^3.27.1",
+    "i": "^0.3.7",
+    "npm": "^9.2.0",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
