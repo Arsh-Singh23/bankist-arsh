@@ -14,3 +14,5 @@ The features of this webpage is:-
 3. Tranferring the money to other accounts.
 
 In this website, if there is no activity for more than 5 minutes, the application fades to white.
+
+Have a look at the site:- https://bankist-arsh.netlify.app/
