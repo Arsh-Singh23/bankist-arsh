@@ -1,4 +1,3 @@
-import 'core-js/stable'
 
 const account1 = {
   owner: 'Jonas Schmedtmann',
